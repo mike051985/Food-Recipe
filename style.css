@@ -16,6 +16,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/*  */
 .btn{
     cursor: pointer;
     outline: 0;
@@ -27,6 +28,7 @@ body{
     margin-bottom: 1rem;
 }
 
+/*  */
 .container{
     min-height: 100vh;
 }
@@ -150,6 +152,7 @@ body{
     background: var(--tenne-tawny-dark);
 }
 
+/* meal details */
 .meal-details{
     position: fixed;
     top: 50%;
@@ -262,7 +265,7 @@ body{
     opacity: 0.8;
 }
 
-/**/
+/*  */
 .notFound{
     grid-template-columns: 1fr!important;
     color: var(--tenne-tawny);
